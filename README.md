@@ -17,6 +17,8 @@ This Streamlit application performs sentiment analysis and clustering of hotel r
 
 
 4.python -m venv venv
+
+
   venv\Scripts\activate  # For Windows
 
 
