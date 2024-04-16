@@ -1,4 +1,6 @@
 # Hotel-analysis
+# PPT slides :
+https://www.canva.com/design/DAGCkC40QMM/iLogc1sebUYMcdp6S0BAWA/edit?utm_content=DAGCkC40QMM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Hotel Reviews Sentiment Analysis and Clustering
 
 This Streamlit application performs sentiment analysis and clustering of hotel reviews. It allows users to explore hotel reviews, analyze sentiment, and view clustered reviews.
@@ -28,7 +30,5 @@ This Streamlit application performs sentiment analysis and clustering of hotel r
 
 
 6.streamlit run s.py
-
-
 
    
